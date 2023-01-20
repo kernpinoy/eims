@@ -1,7 +1,8 @@
 # Employee Information Management System
 
-## Tool and IDE
+## Tools and IDE
 [Docker](https://www.docker.com/ "Docker: Accelerated, Containerized Application Development")  
+[MySQL Docker image](https://hub.docker.com/_/mysql "mysql - Official Image | Docker Hub")  
 [Apache NetBeans](https://netbeans.apache.org/)
 
 ## Libraries used
